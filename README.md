@@ -8,7 +8,7 @@ This first step is very important because it will use what you build during this
 # What’s a command interpreter?
 Do you remember the Shell? It’s exactly the same but limited to a specific use-case. In our case, we want to be able to manage the objects of our project:
 
-* Create a new object (ex: a new User or a new Place)
+* Create a new object 
 * Retrieve an object from a file, a database etc…
 * Do operations on objects (count, compute stats, etc…)
 * Update attributes of an object
@@ -88,7 +88,7 @@ all or all <class name> Ex:
 ## Update
 Updates an instance based on the class name and id:
 
-	(hbnb) update BaseModel 1234-1234-1234 email "aibnb@holbertonschool.com"
+	(hbnb) update BaseModel 1234-1234-1234 email "12345@gmail.com"
 
 ## Quit
 quit or EOF
@@ -110,5 +110,4 @@ help or help <command> Ex:
 * Review
 
 # Authors
-* Aiko Mi - <1205@holbertonschool.com>
-* Pablo Andres Urbano - <1283@holbertonschool.com>
+* oumaima zyani - <oumaima.zyani21@esi.ac.ma>
